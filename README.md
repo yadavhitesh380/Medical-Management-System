@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/CH-Anonymous/Medical_Management_System.git
+   git clone https://github.com/yadavhitesh380/Medical_Management_System.git
    cd medical-management-system
    ```
 
